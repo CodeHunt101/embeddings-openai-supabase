@@ -64,7 +64,6 @@ npm run build
 ├── index.html            # Entry point
 ├── movies.txt            # Movie database content
 ├── queries-supabase.sql  # Database setup queries
-└── script.cjs            # Utility script for file management
 ```
 
 ## Current Limitations
