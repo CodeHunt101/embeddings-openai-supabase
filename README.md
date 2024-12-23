@@ -67,12 +67,10 @@ npm run build
 ```
 
 ## Current Limitations
-- Returns only one match at a time
 - Limited to the movies in the database
 - Requires both OpenAI and Supabase credits
 
 ## Future Improvements
-- Add a user interface for queries
 - Include more movie metadata
 - Implement movie filtering by rating, genre, etc.
 - Add caching for frequent queries
