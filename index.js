@@ -1,4 +1,7 @@
 import { openai, supabase } from './config.js'
+import { createAndStoreEmbeddings } from './seed.js';
+
+createAndStoreEmbeddings();
 
 const form = document.querySelector('form')
 const input = document.querySelector('input')
